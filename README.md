@@ -1,5 +1,4 @@
-# vaibhavsorathiya
-Readme
+# vaibhavsorathiya77
 
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <p align="center">
@@ -13,7 +12,7 @@ Readme
 ---
 
 ### 🛠️ Tech Stack
-```js
+
 Frontend:  React.js, JavaScript, HTML5, CSS3, Tailwind  
 Backend:   Node.js, Express.js, MongoDB  
 Tools:     Git, GitHub, VS Code, Netlify
